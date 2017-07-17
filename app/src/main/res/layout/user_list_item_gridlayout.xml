@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:columnCount="2"
+    android:rowCount="4"
+    android:layout_marginLeft="20dp"
+    android:layout_marginTop="20dp"
+
+    >
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="User Name"
+        android:textSize="15sp"
+        android:textStyle="bold|normal"
+        android:textColor="#383838"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+
+        />
+
+    <TextView
+        android:id="@+id/usernmae_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="UserNamecData"
+        android:layout_marginStart="30dp"
+        android:textSize="13sp"
+        android:textStyle="bold"
+        android:textColor="#383838"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="20dp"
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email"
+        android:textSize="15sp"
+        android:textStyle="bold|normal"
+        android:textColor="#383838"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+
+
+
+
+        />
+
+
+    <TextView
+        android:id="@+id/email_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email Data"
+        android:layout_marginLeft="30dp"
+        android:textSize="13sp"
+        android:textStyle="bold"
+        android:textColor="#383838"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="30dp"
+
+
+
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Admin"
+        android:textSize="15sp"
+        android:textStyle="bold|normal"
+        android:textColor="#383838"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+
+
+
+        />
+
+
+    <CheckBox
+        android:id="@+id/chc_isAdmin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+
+        />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Approved"
+        android:textSize="15sp"
+        android:textStyle="bold|normal"
+        android:textColor="#383838"
+        android:layout_marginLeft="20dp"
+
+
+
+        />
+
+    <CheckBox
+        android:id="@+id/chc_isApproved"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+
+        />
+
+
+    <Button
+        android:id="@+id/delete_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="delete"
+        android:layout_marginLeft="14dp"
+
+
+
+        />
+
+
+
+
+
+
+
+
+
+
+
+</GridLayout>

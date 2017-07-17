@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "471920706511",
+    "firebase_url": "https://mrhome-2fe07.firebaseio.com",
+    "project_id": "mrhome-2fe07",
+    "storage_bucket": "mrhome-2fe07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471920706511:android:5c98a551bdefa347",
+        "android_client_info": {
+          "package_name": "com.example.ahmed.mrhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471920706511-jq5qdoqg80ej0h0u4bh5tsso0c4uolpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahmed.mrhome",
+            "certificate_hash": "fbaf96803205827f86e45b02e8b0449955221929"
+          }
+        },
+        {
+          "client_id": "471920706511-r64r4v10nnrd53mvukr97ghkm7dhajib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaySBHKE0Z2i3q0ZTRaJ-V0EohhVUmrcc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471920706511-r64r4v10nnrd53mvukr97ghkm7dhajib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

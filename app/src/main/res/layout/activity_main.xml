@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mr Home"
+        android:layout_gravity="center"
+        android:layout_marginTop="130dp"
+        android:fontFamily="sans-serif-condensed"
+        android:textSize="40sp"
+        android:textColor="#54516d"
+        android:id="@+id/mr_home"
+        />
+
+    <EditText
+        android:layout_width="290dp"
+        android:layout_height="45dp"
+        android:id="@+id/ed_email"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:hint="Email"
+        android:padding="10dp"
+        android:background="@drawable/my_et"
+        />
+
+    <EditText
+        android:layout_width="290dp"
+        android:layout_height="45dp"
+        android:padding="10dp"
+        android:id="@+id/ed_pass"
+        android:layout_gravity="center"
+        android:hint="Password"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/my_et"
+        android:inputType="textPassword"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/error_tv"
+        android:textColor="#ef0924"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:textSize="15sp"
+        />
+    <Button
+        android:layout_width="290dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_login"
+        android:layout_gravity="center"
+        android:layout_marginTop="0dp"
+        android:text="Log In"
+        android:background="@drawable/my_btn"
+        android:textColor="#5477a5"
+        />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="15dp"
+        android:layout_gravity="center"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Don`t have an account? "
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_signup"
+            android:text="Sign up."
+            android:textStyle="bold"
+            />
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="290dp"
+        android:layout_height="1dip"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:background="#c4c4c4" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/tv_data"
+        />
+
+
+</LinearLayout>
