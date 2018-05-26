@@ -49,15 +49,7 @@ public class MainActivity extends AppCompatActivity {
     public static final String KEY_EMAIL="keyemail";
 
 
-
-    //public static final String URL=" http://connectvia.netii.net";
-    //public static final String URL="http://192.168.1.2/smarthome";
-     // public static final String URL="http://192.168.43.154/smarthome";
      public static final String URL="http://104.236.106.121/SmartHome";
-
-
-
-
 
 
 
