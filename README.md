@@ -5,3 +5,15 @@ This android application will be used to monitor and control the house. It can h
 
 # ScreenShots
 
+![40574642-fc4a13da-60d5-11e8-9379-bed88237ddd1](https://user-images.githubusercontent.com/7644709/40884236-4a116f06-6710-11e8-96a3-492b5d5ad552.png)
+
+![40574643-fc7d64a6-60d5-11e8-977a-19f76208e73d](https://user-images.githubusercontent.com/7644709/40884237-4cda4924-6710-11e8-9d98-465109fb48f9.png)
+
+![40574644-fcaa211c-60d5-11e8-9cce-71eff1d690db](https://user-images.githubusercontent.com/7644709/40884238-4fab09a4-6710-11e8-9619-38318aefdc25.png)
+
+![40574645-fcd5fb20-60d5-11e8-966f-f8e9922a7371](https://user-images.githubusercontent.com/7644709/40884239-5173bf42-6710-11e8-974a-a6c3858d6320.png)
+
+![40574641-fc1ce9d2-60d5-11e8-90dc-9f4c1693e3c1](https://user-images.githubusercontent.com/7644709/40884241-563f35a6-6710-11e8-8c7c-7cb90b3aa354.png)
+
+![40574646-fcfe94c2-60d5-11e8-8455-d6e656008ee3](https://user-images.githubusercontent.com/7644709/40884243-58ce30c4-6710-11e8-9a40-0d342356f102.png)
+
